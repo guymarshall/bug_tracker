@@ -1,0 +1,3 @@
+convert ticketing_system to bug_tracker
+
+ID, status, title, description, date_created, date_updated, created_by, assigned_to, priority, category
